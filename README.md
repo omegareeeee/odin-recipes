@@ -7,5 +7,6 @@ I demonstrated that I learned
     5. Adding images, with alt text
     6. how to link files using <a href>
     7. using git workflow (git add, commit, -m, push, log, status)
+    8. how to style with css
 
 
