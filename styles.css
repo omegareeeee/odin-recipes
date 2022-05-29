@@ -18,3 +18,11 @@ img{
      margin-right: auto;
      width: 50%;
  }
+
+ .food a{
+     background-color: rgb(179,57,81);
+     color: white;
+     text-decoration: none;
+     display: inline-flex;
+     padding: 10px;
+ }
